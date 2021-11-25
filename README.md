@@ -1,7 +1,11 @@
 # owiTech-theme
 ☲ owi `zsh` theme
 
-## install 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/owitech/zsh-theme/master/screenshot.png">
+</p>
+
+## Install
 ### Manual installation
 First, download the theme into [`Oh My Zsh`](https://github.com/robbyrussell/oh-my-zsh)'s custom theme folder:
 
